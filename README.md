@@ -95,8 +95,11 @@ Key benefits of the design include:
 ## Application Preview
 
 
+![Machine Ordering System — Product Catalogue](https://github.com/BenjapornW/canvasapp/blob/main/img/Catalogue1.png?raw=true)
+![Machine Ordering System — Product Catalogue](https://github.com/BenjapornW/canvasapp/blob/main/img/Catalogue2.png?raw=true)
 
-*The main screen features category navigation on the left and a product catalogue displaying coffee machines, product names, and prices.*
+*The Power Apps Canvas App features category-based navigation, coffee machine images, product names, and pricing.*
+
 
 ## Future Improvements
 
